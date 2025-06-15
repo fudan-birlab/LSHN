@@ -1,0 +1,6 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+matplotlib==3.10.0
+numpy==1.26.3
+torch==1.12.1+cu116
+torchvision==0.13.1+cu116
+scikit-image==0.25.2

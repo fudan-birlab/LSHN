@@ -1,0 +1,5 @@
+__pycache__
+data/*
+outputs/results
+outputs/attractor-CIFAR10-ckpt
+outputs/attractor-MNIST-ckpt
